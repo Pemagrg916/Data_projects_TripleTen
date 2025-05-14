@@ -8,7 +8,9 @@ This project analyzes raw event logs from an e-commerce company's website to unc
 
 ## 🗂 Dataset Description
 
-**File**: https://docs.google.com/spreadsheets/d/1yuavBZ4OYYUD1opH-dq0d6nejREDy8f0ozumT9-yEuo/edit?gid=0#gid=0 
+**File**: 'Business Analytics Project'
+- **Source**: Provided by [TripleTen](https://tripleten.com/) as part of their Business Intelligence Analyst program
+- **Download Raw Data**: [Click here to access the dataset](https://docs.google.com/spreadsheets/d/1yuavBZ4OYYUD1opH-dq0d6nejREDy8f0ozumT9-yEuo/edit#gid=0)
 
 **Columns**:
 - `user_id`: Unique identifier for each user
@@ -17,6 +19,7 @@ This project analyzes raw event logs from an e-commerce company's website to unc
 - `brand`: Product brand
 - `price`: Price of the product
 - `event_date`: Date of the event (YYYY-MM-DD)
+
 
 ---
 
