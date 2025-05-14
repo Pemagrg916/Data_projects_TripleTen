@@ -10,6 +10,8 @@ This project presents a **data-driven dashboard built in Tableau** to explore sa
 
 This project was developed as part of my **TripleTen Business Intelligence Analyst bootcamp**.
 
+- **Download Raw Data**: [Click here to access the dataset](https://practicum-content.s3.us-west-1.amazonaws.com/data-eng/remodeled/files/Superstore.xls?etag=4616d537c163874941cf5fc3c9002fa8)
+
 ---
 
 ## 🔍 Key Insights
