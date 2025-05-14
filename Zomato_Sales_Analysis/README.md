@@ -6,6 +6,8 @@ This project presents a comprehensive **Sales Analysis Dashboard** for **Zomato*
 
 I built this project as part of my Business Intelligence Analyst bootcamp at **TripleTen** to demonstrate my proficiency in **data visualization** and **business analysis** using Tableau.
 
+**Download Raw Data**: [Click here to access the dataset](https://practicum-content.s3.us-west-1.amazonaws.com/data-eng/BIA/Dataset/Zomato%20data.zip)
+
 ### ✅ Features & Functionality
 
 - 📊 Interactive Tableau dashboard for exploring sales performance  
