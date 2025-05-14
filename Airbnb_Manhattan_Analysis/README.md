@@ -8,7 +8,8 @@ This project analyzes raw event logs from an e-commerce company's website to unc
 
 ## 🗂 Dataset Description
 
-**File**: `raw_user_activity` (Excel sheet)  
+**File**: https://docs.google.com/spreadsheets/d/1yuavBZ4OYYUD1opH-dq0d6nejREDy8f0ozumT9-yEuo/edit?gid=0#gid=0 
+
 **Columns**:
 - `user_id`: Unique identifier for each user
 - `event_type`: Type of user activity (e.g., view, cart, purchase)
