@@ -24,7 +24,7 @@ This project was developed as part of my **TripleTen Business Intelligence Analy
 
 ## 📊 Live Dashboard
 
-▶️ [**View Interactive Tableau Dashboard**](https://public.tableau.com/shared/CY7M4CJCX?:display_count=n&:origin=viz_share_link)
+▶️ [**View Interactive Tableau Dashboard**](https://public.tableau.com/app/profile/pema.gurung/viz/Book1_17431293804840/Presentation?publish=yes)
 
 
 ---
