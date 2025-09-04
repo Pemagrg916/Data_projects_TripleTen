@@ -1,79 +1,48 @@
-# Superstore's Return Analysis
+# Superstore Return Analysis– CEO Brief & Tableau Dashboard
 
 ## Project Overview
-
-This project presents a **data-driven dashboard built in Tableau** to explore sales and return behavior across product categories. By analyzing key metrics like return rates, sales volume, and category breakdowns, the dashboard helps businesses:
-
-- Identify high-return product categories  
-- Understand customer behavior  
-- Make informed decisions to reduce losses from returns
-
-This project was developed as part of my **TripleTen Business Intelligence Analyst bootcamp**.
-
-- **Download Raw Data**: [Click here to access the dataset](https://practicum-content.s3.us-west-1.amazonaws.com/data-eng/remodeled/files/Superstore.xls?etag=4616d537c163874941cf5fc3c9002fa8)
+This project analyzes **Superstore sales and returns data** to identify root causes of high return rates and provide actionable recommendations for reducing return volume. Using **Tableau** for data visualization and analysis, an interactive dashboard and an executive-style brief were developed to summarize insights for decision-makers.
 
 ---
 
-## Key Insights
-
-- **Clothing and Electronics** categories exhibited the highest return rates.
-- High sales volume does not always correlate with high return volume—pointing to potential quality or fit issues in specific categories.
-- Opportunities exist to improve return policies, product descriptions, and sizing consistency.
-
----
-
-## Live Dashboard
-
-▶️ [**View Interactive Tableau Dashboard**](https://public.tableau.com/app/profile/pema.gurung/viz/Book1_17431293804840/Presentation?publish=yes)
-
+## Key Findings
+- **Sales:** $2.9M  
+- **Total Returns:** 3,226 orders  
+- **Return Rate:** 26% (vs. expected <10%)  
+- **Profit Margin:** 12.4%  
 
 ---
 
-## Tools & Technologies
-
-- **Tableau Public** – Data visualization and dashboard creation  
-- **Excel / Google Sheets** – Data cleaning and organization  
-- **Business Intelligence** – Analytical thinking and data interpretation
+## Tools & Skills Used
+- **Tableau** – KPI dashboards, return rate analysis, geographic heatmaps, seasonality trends  
+- **Data Storytelling** – Executive brief and root cause analysis
 
 ---
 
-## Project Structure
-
-
----
-
-## Deployment & Requirements
-
-To work with or modify this dashboard:
-
-- Download [Tableau Public](https://public.tableau.com/en-us/s/download/) (Free)
-- Open the `.twbx` file located in the `tableau/` folder
-- Dataset should be in `.csv` format (included in `/data`)
-
+## Business Impact
+This analysis provided leadership with:  
+1. **Clear measurement of returns** (Return Rate %, Cost of Returns, Total Return Volume).  
+2. **Root cause diagnosis** across products, logistics, geography, and seasonality.  
+3. **Actionable recommendations** such as stricter quality checks, packaging improvements, targeted regional audits, and customer monitoring.
 
 ---
 
-## Roadmap & Future Enhancements
-
-- ➕ **Drilldown by product SKU** to uncover specific return trends  
-- 📆 **Time-series view** to identify seasonal spikes in returns  
-- 📉 **Add filters for region, vendor, and return reasons**  
-- 🔗 **Integrate customer feedback data** for qualitative analysis  
-
-Example roadmap format:
-> Fix poor category grouping using dynamic filters in Tableau to improve user navigation and clarity.
+## Project Deliverables
+- **Interactive Tableau Dashboard**: [https://public.tableau.com/app/profile/pema.gurung/viz/Book1_17431293804840/Presentation?publish=yes]   
+- **Dataset**: [Superstore sample dataset, if shareable]
 
 ---
 
-## 👤 Author
-
-**Pema Gurung**  
-📧 Email: [Pemagrg916@gmail.com](mailto:Pemagrg916@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/pema-gurung](https://www.linkedin.com/in/pema-gurung)
+## 📌 Next Steps
+1. Implement dashboard across management teams to track returns in real time.  
+2. Address high-return categories via cross-functional task force.  
+3. Monitor changes in return rate and profit margin post-implementation.
 
 ---
 
-## 📄 Additional Notes
+## 📌 Contact
+**Prepared by:** Pema Gurung  
+**Email:** pemagrg916@gmail.com  
+**LinkedIn:** [www.linkedin.com/in/pema-gurung]
 
-This project is educational and part of my **TripleTen BI Analyst training**. Data shown is simulated and does not reflect real customer information.
 
