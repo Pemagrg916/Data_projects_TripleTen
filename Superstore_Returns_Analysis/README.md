@@ -33,14 +33,14 @@ This analysis provided leadership with:
 
 ---
 
-## 📌 Next Steps
+## Next Steps
 1. Implement dashboard across management teams to track returns in real time.  
 2. Address high-return categories via cross-functional task force.  
 3. Monitor changes in return rate and profit margin post-implementation.
 
 ---
 
-## 📌 Contact
+## Contact
 **Prepared by:** Pema Gurung  
 **Email:** pemagrg916@gmail.com  
 **LinkedIn:** [www.linkedin.com/in/pema-gurung]
