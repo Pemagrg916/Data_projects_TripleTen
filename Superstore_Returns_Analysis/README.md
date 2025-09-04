@@ -1,4 +1,4 @@
-# 🛍️ Retail Sales and Return Rate Analysis
+# 🛍️ Superstore's Return Analysis
 
 ## 📌 Project Overview
 
