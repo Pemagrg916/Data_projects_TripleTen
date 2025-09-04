@@ -1,6 +1,6 @@
-# 🛍️ Superstore's Return Analysis
+# Superstore's Return Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 This project presents a **data-driven dashboard built in Tableau** to explore sales and return behavior across product categories. By analyzing key metrics like return rates, sales volume, and category breakdowns, the dashboard helps businesses:
 
@@ -14,7 +14,7 @@ This project was developed as part of my **TripleTen Business Intelligence Analy
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 - **Clothing and Electronics** categories exhibited the highest return rates.
 - High sales volume does not always correlate with high return volume—pointing to potential quality or fit issues in specific categories.
@@ -22,14 +22,14 @@ This project was developed as part of my **TripleTen Business Intelligence Analy
 
 ---
 
-## 📊 Live Dashboard
+## Live Dashboard
 
 ▶️ [**View Interactive Tableau Dashboard**](https://public.tableau.com/app/profile/pema.gurung/viz/Book1_17431293804840/Presentation?publish=yes)
 
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - **Tableau Public** – Data visualization and dashboard creation  
 - **Excel / Google Sheets** – Data cleaning and organization  
@@ -37,12 +37,12 @@ This project was developed as part of my **TripleTen Business Intelligence Analy
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 
 ---
 
-## 💻 Deployment & Requirements
+## Deployment & Requirements
 
 To work with or modify this dashboard:
 
@@ -53,7 +53,7 @@ To work with or modify this dashboard:
 
 ---
 
-## 🛣️ Roadmap & Future Enhancements
+## Roadmap & Future Enhancements
 
 - ➕ **Drilldown by product SKU** to uncover specific return trends  
 - 📆 **Time-series view** to identify seasonal spikes in returns  
