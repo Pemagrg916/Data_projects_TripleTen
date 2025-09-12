@@ -28,7 +28,7 @@ I built this project as part of my Business Intelligence Analyst bootcamp at **T
 
 ## 📊 Live Dashboard
 
-➡️ [Click here to explore the interactive dashboard on Tableau Public](https://public.tableau.com/views/Book2_17454678576350/ZomatoSalesAnalysisReport)
+➡️ [Click here to explore the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/pema.gurung/viz/Book2_17454678576350/SalesAnalysis-Dashboard?publish=yes)
 
 ---
 
